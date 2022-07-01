@@ -1,6 +1,8 @@
 import cv2
 import pandas as pd
 
+# BY AMAN JAIN [ ROLL NO: 2002006, BHASKARACHARYA COLLEGE OF APPLIED SCIENCES, DU]
+
 #CSV and Image
 
 img_path = 'pic1.jpg'
